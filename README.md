@@ -112,7 +112,7 @@ Run the Scraper:
 bash
 Copy
 Edit
-python Kavya.py
+python chetanw.py
 Upload to HDFS:
 
 bash
@@ -129,3 +129,6 @@ python mysql_insertion.py
 📓 Jupyter Notebook Demo
 
 🎥 Demo Video
+## Redundancy Test
+redundancy test
+— by turn off 1 workers while reading and saving data
